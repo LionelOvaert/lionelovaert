@@ -10,7 +10,6 @@ From time to time, I'll also jump in some CTF competitons for fun!
 
 Some places you can find me:
 
-* [My website: coming soon!]()
+* [My website](https://lionelovaert.be/)
 * [LinkedIn](https://www.linkedin.com/in/lionel-ovaert-1b4969aa/)
 * [GitHub as @LionelOvaert (you are here)](https://github.com/LionelOvaert)
-* [Medium: coming soon!]()
